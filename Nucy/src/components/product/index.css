@@ -1,0 +1,32 @@
+.carousel-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .product-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+  }
+  
+  .product-card .ant-card {
+    width: 200px;
+    height: 100%;
+  }
+  
+  .carousel-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .carousel-buttons button {
+    margin: 0 10px;
+  }
+  .card-container{
+    margin:30px;
+    padding:30px;
+    background-color: antiquewhite;
+  }
